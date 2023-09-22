@@ -1,0 +1,6 @@
+C:\Users\clash\source\repos\triangle\triangle\bin\Debug\triangle.dll
+C:\Users\clash\source\repos\triangle\triangle\bin\Debug\triangle.pdb
+C:\Users\clash\source\repos\triangle\triangle\obj\Debug\triangle.csproj.AssemblyReference.cache
+C:\Users\clash\source\repos\triangle\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\Users\clash\source\repos\triangle\triangle\obj\Debug\triangle.dll
+C:\Users\clash\source\repos\triangle\triangle\obj\Debug\triangle.pdb
